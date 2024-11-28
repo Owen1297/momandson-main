@@ -26,6 +26,29 @@ header p {
     font-size: 1.2em;
 }
 
+/* Logo Styling */
+.logo {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+.cover-logo {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+.footer-logo {
+    width: 50px;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
+
 /* Main Content */
 .container {
     width: 90%;
