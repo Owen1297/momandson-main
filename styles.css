@@ -32,6 +32,8 @@ header p {
     height: auto;
     display: block;
     margin: 0 auto 10px;
+    border: 2px solid powderblue;
+    border-radius: 15px;
 }
 
 .cover-logo {
@@ -47,6 +49,8 @@ header p {
     height: auto;
     display: block;
     margin: 0 auto 10px;
+    border: 2px solid powderblue;
+    border-radius: 15px;
 }
 
 /* Main Content */
