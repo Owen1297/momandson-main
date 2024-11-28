@@ -8,4 +8,5 @@ body {
 	background-color: white;
 	color: brown;
 	font-family: Trebuchet MS;
+	cursor: url("/cursor.png");
 }
