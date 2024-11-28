@@ -33,7 +33,7 @@ header p {
     display: block;
     margin: 0 auto 10px;
     border: 2px solid powderblue;
-    border-radius: 15px;
+    border-radius: 20px;
 }
 
 .cover-logo {
@@ -42,6 +42,8 @@ header p {
     height: auto;
     display: block;
     margin: 20px auto;
+    border: 2px solid powderblue;
+    border-radius: 20px;
 }
 
 .footer-logo {
@@ -50,7 +52,7 @@ header p {
     display: block;
     margin: 0 auto 10px;
     border: 2px solid powderblue;
-    border-radius: 15px;
+    border-radius: 20px;
 }
 
 /* Main Content */
