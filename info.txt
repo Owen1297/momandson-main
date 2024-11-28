@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: LaborUnion-Regular
+font link: https://gumroad.com/l/JYjdv
+font author: Tom McAuliffe
+font author site: https://mcletters.co/
+
+
+icon designer: Icons By Alfredo
+icon designer link: /AlfredoCreates
+        
+{"bg":"#EAF2EF","icon-gradient-0":"#0A3732","icon-gradient-1":"#55C388","font":"#0E261C","slogan":"#223a30"}
+      
