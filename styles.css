@@ -8,6 +8,10 @@ body {
     cursor: url("./cursor.png"), auto;
 }
 
+marquee {
+    cursor: url("./pointer.png"), auto;
+}
+
 /* Header */
 header {
     background-color: #ffcc80;
