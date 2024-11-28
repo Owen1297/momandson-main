@@ -5,8 +5,8 @@ img {
 	border-radius: 25px;
 }
 body {
-	background-color: white;
-	color: brown;
+	background-color: slateblue;
+	color: powderblue;
 	font-family: Trebuchet MS;
 	cursor: url("/cursor.png");
 }
