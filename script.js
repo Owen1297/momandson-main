@@ -1,4 +1,4 @@
-const updating = false;
+const updating = true;
 if (updating) {
-  alert("Updated! v1.5.2/0");
+  alert("Updated! v1.6.2/0");
 }
